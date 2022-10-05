@@ -13,6 +13,11 @@
   - [x] git 2022/09/20
   - [ ] SQL Ⅰ
 - [ ] 苦C読み進める
+  - [x] 苦Cについて
+    - [x] [苦Ｃの使用法](https://9cguide.appspot.com/s_readme.html)
+    - [x] [苦Ｃについて](https://9cguide.appspot.com/s_start.html)
+    - [x] [ターゲット層](https://9cguide.appspot.com/s_subject.html)
+    - [x] [苦Ｃライセンス](https://9cguide.appspot.com/s_license.html)
 
 おまけ
 - [x] Paiza C++体験編1Complete 2022/09/22
