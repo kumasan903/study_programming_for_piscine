@@ -27,5 +27,9 @@
     - [x] [動的配列＆mallocを使いたい](https://9cguide.appspot.com/q_malloc.html)
     
 
-おまけ
+# おまけ
 - [x] Paiza C++体験編1Complete 2022/09/22
+
+## 期間中に作ったもの
+[c-DescentCalc](https://github.com/kumasan903/study/tree/main/c/c-DescentCalc)  
+[c-DescentLate](https://github.com/kumasan903/study/tree/main/c/c-DescentLate)
