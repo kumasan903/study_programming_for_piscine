@@ -25,7 +25,12 @@
     - [x] [画面が一瞬で消えます](https://9cguide.appspot.com/q_screen.html)
     - [x] [ファイルサイズの取得方法](https://9cguide.appspot.com/q_filesize.html) (一応読んだけどあまり理解できてない)
     - [x] [動的配列＆mallocを使いたい](https://9cguide.appspot.com/q_malloc.html)
-    
+  - [x] 第0部:プログラム概要編 2022/10/05
+    - [x] [プログラムとは何か？](https://9cguide.appspot.com/00-01.html)
+  - [x] 1章：世界最小のプログラム 2022/10/05
+    - [x] [何もしないプログラム](https://9cguide.appspot.com/01-01.html)
+    - [x] [コンパイラは翻訳ソフト](https://9cguide.appspot.com/01-02.html)
+    - [x] [練習問題1](https://9cguide.appspot.com/01-q.html)
 
 # おまけ
 - [x] Paiza C++体験編1Complete 2022/09/22
