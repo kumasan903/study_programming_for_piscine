@@ -11,7 +11,7 @@
 - [ ] Progateの無料レッスン進める
   - [x] Command Line 2022/09/20
   - [x] git 2022/09/20
-  - [ ] SQL Ⅰ
+  - [x] SQL Ⅰ 2022/10/17
 - [ ] 苦C読み進める
   - [x] 苦Cについて 2022/10/05
     - [x] [苦Ｃの使用法](https://9cguide.appspot.com/s_readme.html)
