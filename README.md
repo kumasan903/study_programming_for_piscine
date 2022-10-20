@@ -31,6 +31,19 @@
     - [x] [何もしないプログラム](https://9cguide.appspot.com/01-01.html)
     - [x] [コンパイラは翻訳ソフト](https://9cguide.appspot.com/01-02.html)
     - [x] [練習問題1](https://9cguide.appspot.com/01-q.html)
+  - [x] 2章：プログラムの書き方
+    - [x] [書き方のルール](https://9cguide.appspot.com/02-01.html)
+    - [x] [書き方の慣習](https://9cguide.appspot.com/02-02.html)
+    - [x] [練習問題2](https://9cguide.appspot.com/02-q.html)
+  - [x] 3章：画面への表示
+    - [x] [文字列の表示](https://9cguide.appspot.com/03-01.html)
+    - [x] [改行文字](https://9cguide.appspot.com/03-02.html)
+    - [x] [練習問題3](https://9cguide.appspot.com/03-q.html)
+  - [x] 4章：数値の表示と計算
+    - [x] [数値の表示](https://9cguide.appspot.com/04-01.html)
+    - [x] [基本的な計算](https://9cguide.appspot.com/04-02.html)
+    - [x] [数値の種類](https://9cguide.appspot.com/04-03.html)
+    - [x] [練習問題4](https://9cguide.appspot.com/04-q.html)
 
 # おまけ
 - [x] Paiza C++体験編1Complete 2022/09/22
